@@ -1,6 +1,23 @@
-# vuejs-simple
+# Hockey Community Blog (A Vue.js project)
 
-> A Vue.js project
+A simple blog created for Hockey Community using Vue.js.
+
+Created by Michael Shin
+
+## Final Product
+
+Show blogs
+!["Screenshot of show blogs"](https://github.com/shinmike/hockey-community-blog/blob/master/docs/showBlogs.png)
+
+Single blog
+!["Screenshot of single blog"](https://github.com/shinmike/hockey-community-blog/blob/master/docs/singleBlog.png)
+
+Add blog
+!["Screenshot of add blog"](https://github.com/shinmike/hockey-community-blog/blob/master/docs/addBlog.png)
+
+Resource: Vue.js 2 playlist from The Net Ninja YouTube channel
+
+https://youtu.be/WjfpQlVem-8
 
 ## Build Setup
 
